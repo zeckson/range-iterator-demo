@@ -12,7 +12,7 @@ import jetbrains.mps.project.GlobalScope;
 public class RangeIteratorVariable_Behavior {
   public static void init(SNode thisNode) {
     SLinkOperations.setTarget(thisNode, "type", _quotation_createNode_r1fwz9_a0a0a(), true);
-    SPropertyOperations.set(thisNode, "name", "index");
+    SPropertyOperations.set(thisNode, "name", "i");
   }
 
   private static SNode _quotation_createNode_r1fwz9_a0a0a() {

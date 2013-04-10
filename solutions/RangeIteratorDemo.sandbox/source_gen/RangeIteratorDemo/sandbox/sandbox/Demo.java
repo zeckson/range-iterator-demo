@@ -5,10 +5,11 @@ package RangeIteratorDemo.sandbox.sandbox;
 
 public class Demo {
   public static void main(String[] args) {
-    int number = 10;
+    int start = 0;
+    int end = 10;
 
-    for (int index = 10; index < number + 10; index++) {
-      System.out.println("Hi! " + index);
+    for (int i = start; i < end + 1; i++) {
+      System.out.println("Hi! " + i);
     }
   }
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-3ofq2etjy29t5oib5viql0q4xzrtcru">
+<dependencies version="2" modelHash="-ev6qxvcqie2p04r2ivdmwjzxdquyxk7">
   <dep model="f:java_stub#8865b7a8-5271-43d3-884c-6fd1d9cfdd34#org.jetbrains.mps.openapi.model(MPS.OpenAPI/org.jetbrains.mps.openapi.model@java_stub)" />
   <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
@@ -31,7 +31,7 @@
     <file name="RangeIteratorVariable_BehaviorDescriptor.java" />
     <file name="RangeIterator_BehaviorDescriptor.java" />
   </common>
-  <source id="5600209791567510653" name="RangeIteratorVariable_Behavior" hash="1g7k9iseerjwj04ymc0jaw3skojenaz">
+  <source id="5600209791567510653" name="RangeIteratorVariable_Behavior" hash="7ah4pzzq56btonajsmbbpkoqph7y003">
     <dep model="f:java_stub#8865b7a8-5271-43d3-884c-6fd1d9cfdd34#org.jetbrains.mps.openapi.model(MPS.OpenAPI/org.jetbrains.mps.openapi.model@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -43,7 +43,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="RangeIteratorVariable_Behavior.java" />
   </source>
-  <source id="5600209791567540653" name="RangeIterator_Behavior" hash="e6cnhso2zheii94bve61rjbyv3cl3ci">
+  <source id="5600209791567540653" name="RangeIterator_Behavior" hash="l8yht3zwjvvidqkwhlkwvx3xavs5ee">
     <dep model="f:java_stub#8865b7a8-5271-43d3-884c-6fd1d9cfdd34#org.jetbrains.mps.openapi.model(MPS.OpenAPI/org.jetbrains.mps.openapi.model@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />

@@ -41,7 +41,7 @@
         <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="5600209791567864179">
           <node role="expression" roleId="tpee.1068580123156" type="tpee.AssignmentExpression" typeId="tpee.1068498886294" id="5600209791567906356">
             <node role="rValue" roleId="tpee.1068498886297" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="5600209791567906372">
-              <property name="value" nameId="tpee.1070475926801" value="index" />
+              <property name="value" nameId="tpee.1070475926801" value="i" />
             </node>
             <node role="lValue" roleId="tpee.1068498886295" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5600209791567865419">
               <node role="operand" roleId="tpee.1197027771414" type="1i04.ThisNodeExpression" typeId="1i04.1225194691553" id="5600209791567864177" />
@@ -113,8 +113,8 @@
             </node>
           </node>
         </node>
-        <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="4177170313493741093">
-          <node role="expression" roleId="tpee.1068580123156" type="genb.ParentScope" typeId="genb.8077936094962911282" id="4177170313493741086" />
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="4177170313494055945">
+          <node role="expression" roleId="tpee.1068580123156" type="genb.ParentScope" typeId="genb.8077936094962911282" id="4177170313494055938" />
         </node>
       </node>
     </node>

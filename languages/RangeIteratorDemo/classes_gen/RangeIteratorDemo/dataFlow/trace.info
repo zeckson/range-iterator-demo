@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="DFABuilders.java" startLine="8" startPosition="0" endLine="13" endPosition="0" unitName="RangeIteratorDemo.dataFlow.DFABuilders" />
+  <root nodeRef="r:3ee30118-0fef-4655-a65d-095f51cb07e8(RangeIteratorDemo.dataFlow)/5600209791569061779">
+    <nodeInfo nodeId="6551380723246002215" fileName="RangeIterator_DataFlow.java" startLine="17" startPosition="102" endLine="18" endPosition="110" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6551380723246002233" fileName="RangeIterator_DataFlow.java" startLine="18" startPosition="110" endLine="19" endPosition="175" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6551380723246002249" fileName="RangeIterator_DataFlow.java" startLine="19" startPosition="175" endLine="20" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6551380723246002224" fileName="RangeIterator_DataFlow.java" startLine="20" startPosition="54" endLine="21" endPosition="110" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6551380723246002803" fileName="RangeIterator_DataFlow.java" startLine="22" startPosition="323" endLine="23" endPosition="206" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6551380723246002832" fileName="RangeIterator_DataFlow.java" startLine="23" startPosition="206" endLine="24" endPosition="204" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6551380723246002853" fileName="RangeIterator_DataFlow.java" startLine="25" startPosition="25" endLine="26" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6551380723246002862" fileName="RangeIterator_DataFlow.java" startLine="28" startPosition="5" endLine="29" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6551380723246002257" fileName="RangeIterator_DataFlow.java" startLine="29" startPosition="86" endLine="30" endPosition="101" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6551380723246002269" fileName="RangeIterator_DataFlow.java" startLine="30" startPosition="101" endLine="31" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791569061779" fileName="RangeIterator_DataFlow.java" startLine="14" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="RangeIterator_DataFlow#()V" />
+    <nodeInfo nodeId="6551380723246002844" fileName="RangeIterator_DataFlow.java" startLine="24" startPosition="204" endLine="27" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6551380723246002770" fileName="RangeIterator_DataFlow.java" startLine="21" startPosition="110" endLine="28" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5600209791569061779" fileName="RangeIterator_DataFlow.java" startLine="17" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="build#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/lang/dataFlow/DataFlowBuilderContext;)V" />
+    <scopeInfo nodeId="5600209791569061779" fileName="RangeIterator_DataFlow.java" startLine="14" startPosition="35" endLine="14" endPosition="35" />
+    <scopeInfo nodeId="6551380723246002845" fileName="RangeIterator_DataFlow.java" startLine="25" startPosition="25" endLine="26" endPosition="88" />
+    <scopeInfo nodeId="5600209791569061779" fileName="RangeIterator_DataFlow.java" startLine="14" startPosition="0" endLine="16" endPosition="0" />
+    <scopeInfo nodeId="6551380723246002771" fileName="RangeIterator_DataFlow.java" startLine="22" startPosition="323" endLine="27" endPosition="7">
+      <varInfo nodeId="6551380723246002833" varName="end" />
+      <varInfo nodeId="6551380723246002804" varName="start" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791569061835" fileName="RangeIterator_DataFlow.java" startLine="17" startPosition="102" endLine="31" endPosition="102" />
+    <scopeInfo nodeId="5600209791569061779" fileName="RangeIterator_DataFlow.java" startLine="17" startPosition="0" endLine="33" endPosition="0">
+      <varInfo nodeId="5600209791569061779" varName="_context" />
+      <varInfo nodeId="5600209791569061779" varName="operationContext" />
+    </scopeInfo>
+    <unitInfo nodeId="5600209791569061779" fileName="RangeIterator_DataFlow.java" startLine="13" startPosition="0" endLine="34" endPosition="0" unitName="RangeIteratorDemo.dataFlow.RangeIterator_DataFlow" />
+  </root>
+</debugInfo>
+
