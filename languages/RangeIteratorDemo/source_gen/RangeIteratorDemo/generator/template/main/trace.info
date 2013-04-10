@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="QueriesGenerated.java" startLine="12" startPosition="0" endLine="25" endPosition="0" unitName="RangeIteratorDemo.generator.template.main.QueriesGenerated" />
+  <root nodeRef="r:80c9e55f-9fec-4693-8458-0491476a4a2a(RangeIteratorDemo.generator.template.main@generator)/5600209791566793421">
+    <nodeInfo nodeId="5600209791571273133" fileName="QueriesGenerated.java" startLine="13" startPosition="154" endLine="14" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791567371883" fileName="QueriesGenerated.java" startLine="17" startPosition="150" endLine="18" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791566877216" fileName="QueriesGenerated.java" startLine="21" startPosition="155" endLine="22" endPosition="118" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5600209791568418097" fileName="QueriesGenerated.java" startLine="13" startPosition="154" endLine="14" endPosition="52" />
+    <scopeInfo nodeId="5600209791567371877" fileName="QueriesGenerated.java" startLine="17" startPosition="150" endLine="18" endPosition="85" />
+    <scopeInfo nodeId="5600209791566877210" fileName="QueriesGenerated.java" startLine="21" startPosition="155" endLine="22" endPosition="118" />
+  </root>
+</debugInfo>
+

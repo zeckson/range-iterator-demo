@@ -1,6 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <root nodeRef="r:d0d557b8-c7ea-4d4e-8bc2-18a18b6a3e74(RangeIteratorDemo.editor)/5600209791566752412" />
+  <root nodeRef="r:d0d557b8-c7ea-4d4e-8bc2-18a18b6a3e74(RangeIteratorDemo.editor)/5600209791566752412">
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="20" startPosition="79" endLine="21" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="24" startPosition="89" endLine="25" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="25" startPosition="96" endLine="26" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="26" startPosition="48" endLine="27" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="26" startPosition="48" endLine="27" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="27" startPosition="80" endLine="28" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="27" startPosition="80" endLine="28" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="28" startPosition="81" endLine="29" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="28" startPosition="81" endLine="29" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="29" startPosition="80" endLine="30" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="29" startPosition="80" endLine="30" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="30" startPosition="81" endLine="31" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="34" startPosition="87" endLine="35" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="35" startPosition="81" endLine="36" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="36" startPosition="43" endLine="37" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="37" startPosition="56" endLine="38" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="38" startPosition="26" endLine="39" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="39" startPosition="58" endLine="40" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="40" startPosition="73" endLine="41" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="41" startPosition="57" endLine="42" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="43" startPosition="35" endLine="44" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="44" startPosition="72" endLine="45" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="45" startPosition="78" endLine="46" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="47" startPosition="10" endLine="48" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="51" startPosition="88" endLine="52" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="52" startPosition="93" endLine="53" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="53" startPosition="47" endLine="54" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="54" startPosition="34" endLine="55" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="55" startPosition="60" endLine="56" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="56" startPosition="54" endLine="57" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="57" startPosition="40" endLine="58" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="58" startPosition="34" endLine="59" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="62" startPosition="87" endLine="63" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="63" startPosition="81" endLine="64" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="64" startPosition="29" endLine="65" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="65" startPosition="42" endLine="66" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="66" startPosition="26" endLine="67" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="67" startPosition="58" endLine="68" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="68" startPosition="34" endLine="69" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="69" startPosition="58" endLine="70" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="70" startPosition="60" endLine="71" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="71" startPosition="40" endLine="72" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="72" startPosition="73" endLine="73" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="73" startPosition="57" endLine="74" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="75" startPosition="35" endLine="76" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="76" startPosition="72" endLine="77" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="77" startPosition="78" endLine="78" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="79" startPosition="10" endLine="80" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="83" startPosition="88" endLine="84" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="84" startPosition="87" endLine="85" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="85" startPosition="47" endLine="86" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="86" startPosition="34" endLine="87" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="87" startPosition="54" endLine="88" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="88" startPosition="40" endLine="89" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="89" startPosition="34" endLine="90" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="20" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="42" startPosition="59" endLine="48" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="74" startPosition="59" endLine="80" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="24" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createCollection_amkjio_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="83" startPosition="0" endLine="92" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_amkjio_d0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="51" startPosition="0" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_amkjio_b0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="34" startPosition="0" endLine="50" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createRefNode_amkjio_a0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="62" startPosition="0" endLine="82" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createRefNode_amkjio_c0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <scopeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="20" startPosition="79" endLine="21" endPosition="63" />
+    <scopeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="26" startPosition="48" endLine="27" endPosition="80" />
+    <scopeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="27" startPosition="80" endLine="28" endPosition="81" />
+    <scopeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="28" startPosition="81" endLine="29" endPosition="80" />
+    <scopeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="29" startPosition="80" endLine="30" endPosition="81" />
+    <scopeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="20" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="5600209791566752412" varName="editorContext" />
+      <varInfo nodeId="5600209791566752412" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="43" startPosition="35" endLine="46" endPosition="105">
+      <varInfo nodeId="5600209791567318472" varName="manager" />
+      <varInfo nodeId="5600209791567318472" varName="opContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="75" startPosition="35" endLine="78" endPosition="105">
+      <varInfo nodeId="5600209791566754186" varName="manager" />
+      <varInfo nodeId="5600209791566754186" varName="opContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="24" startPosition="89" endLine="31" endPosition="22">
+      <varInfo nodeId="5600209791566752412" varName="editorCell" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="83" startPosition="88" endLine="90" endPosition="22">
+      <varInfo nodeId="5600209791566754403" varName="editorCell" />
+      <varInfo nodeId="5600209791566754403" varName="style" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="51" startPosition="88" endLine="59" endPosition="22">
+      <varInfo nodeId="5600209791566754078" varName="editorCell" />
+      <varInfo nodeId="5600209791566754078" varName="style" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="24" startPosition="0" endLine="33" endPosition="0">
+      <varInfo nodeId="5600209791566752412" varName="editorContext" />
+      <varInfo nodeId="5600209791566752412" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566754403" fileName="RangeIterator_Editor.java" startLine="83" startPosition="0" endLine="92" endPosition="0">
+      <varInfo nodeId="5600209791566754403" varName="editorContext" />
+      <varInfo nodeId="5600209791566754403" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566754078" fileName="RangeIterator_Editor.java" startLine="51" startPosition="0" endLine="61" endPosition="0">
+      <varInfo nodeId="5600209791566754078" varName="editorContext" />
+      <varInfo nodeId="5600209791566754078" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="34" startPosition="87" endLine="48" endPosition="22">
+      <varInfo nodeId="5600209791567318472" varName="attributeConcept" />
+      <varInfo nodeId="5600209791567318472" varName="attributeKind" />
+      <varInfo nodeId="5600209791567318472" varName="editorCell" />
+      <varInfo nodeId="5600209791567318472" varName="provider" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791567318472" fileName="RangeIterator_Editor.java" startLine="34" startPosition="0" endLine="50" endPosition="0">
+      <varInfo nodeId="5600209791567318472" varName="editorContext" />
+      <varInfo nodeId="5600209791567318472" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="62" startPosition="87" endLine="80" endPosition="22">
+      <varInfo nodeId="5600209791566754186" varName="attributeConcept" />
+      <varInfo nodeId="5600209791566754186" varName="attributeKind" />
+      <varInfo nodeId="5600209791566754186" varName="editorCell" />
+      <varInfo nodeId="5600209791566754186" varName="provider" />
+      <varInfo nodeId="5600209791566754186" varName="style" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566754186" fileName="RangeIterator_Editor.java" startLine="62" startPosition="0" endLine="82" endPosition="0">
+      <varInfo nodeId="5600209791566754186" varName="editorContext" />
+      <varInfo nodeId="5600209791566754186" varName="node" />
+    </scopeInfo>
+    <unitInfo nodeId="5600209791566752412" fileName="RangeIterator_Editor.java" startLine="19" startPosition="0" endLine="93" endPosition="0" unitName="RangeIteratorDemo.editor.RangeIterator_Editor" />
+  </root>
   <root nodeRef="r:d0d557b8-c7ea-4d4e-8bc2-18a18b6a3e74(RangeIteratorDemo.editor)/5600209791567510459" />
 </debugInfo>
 

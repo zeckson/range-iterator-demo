@@ -7,7 +7,7 @@
   </models>
   <accessoryModels />
   <generators>
-    <generator name="" generatorUID="RangeIteratorDemo#5584972977392985901" uuid="d203ed24-4a38-4350-95bc-d7a8a682fb75">
+    <generator name="" generatorUID="RangeIteratorDemo#5600209791566792937" uuid="56835bd9-fc1b-4a48-890a-2483075a7b41">
       <models>
         <modelRoot contentPath="${module}/generator/template" type="default">
           <sourceRoot location="." />
@@ -15,6 +15,7 @@
       </models>
       <external-templates />
       <usedLanguages>
+        <usedLanguage>ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)</usedLanguage>
         <usedLanguage>b401a680-8325-4110-8fd3-84331ff25bef(jetbrains.mps.lang.generator)</usedLanguage>
         <usedLanguage>d7706f63-9be2-479c-a3da-ae92af1e64d5(jetbrains.mps.lang.generator.generationContext)</usedLanguage>
       </usedLanguages>

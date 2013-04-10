@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <root nodeRef="r:79af5e27-19ac-4bb2-ac18-105ca4aa0122(RangeIteratorDemo.sandbox.sandbox)/5600209791566610949" />
-  <root nodeRef="r:79af5e27-19ac-4bb2-ac18-105ca4aa0122(RangeIteratorDemo.sandbox.sandbox)/5600209791571692769" />
+  <root nodeRef="r:79af5e27-19ac-4bb2-ac18-105ca4aa0122(RangeIteratorDemo.sandbox.sandbox)/5600209791566610949">
+    <nodeInfo nodeId="5600209791567449120" fileName="Demo.java" startLine="7" startPosition="42" endLine="8" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2153840996728962076" fileName="Demo.java" startLine="8" startPosition="20" endLine="9" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5600209791566620529" fileName="Demo.java" startLine="10" startPosition="67" endLine="11" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791571366397" fileName="Demo.java" startLine="9" startPosition="0" endLine="12" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForStatement" />
+    <nodeInfo nodeId="5600209791566620426" fileName="Demo.java" startLine="7" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
+    <scopeInfo nodeId="5600209791571366397" fileName="Demo.java" startLine="10" startPosition="67" endLine="11" endPosition="32" />
+    <scopeInfo nodeId="5600209791571366397" fileName="Demo.java" startLine="9" startPosition="0" endLine="12" endPosition="5">
+      <varInfo nodeId="5600209791571366397" varName="index_c0a" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566620432" fileName="Demo.java" startLine="7" startPosition="42" endLine="12" endPosition="5">
+      <varInfo nodeId="5600209791567449121" varName="number" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791566620426" fileName="Demo.java" startLine="7" startPosition="0" endLine="14" endPosition="0">
+      <varInfo nodeId="5600209791566620427" varName="args" />
+    </scopeInfo>
+    <unitInfo nodeId="5600209791566610949" fileName="Demo.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="RangeIteratorDemo.sandbox.sandbox.Demo" />
+  </root>
 </debugInfo>
 
