@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="n7sw" modelUID="r:d3cb28f7-b3e6-4138-80f8-ad737bd932fc(RangeIteratorDemo.structure)" version="-1" />
+    </dependencies>
+    <rename id="n7sw.5600209791567318400" type="CHILD" from="numberOfIterations" to="upperBoundary" />
+  </StructureModification>
+</history>
+

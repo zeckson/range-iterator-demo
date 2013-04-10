@@ -16,7 +16,11 @@ public class QueriesGenerated {
   }
 
   public static SNode sourceNodeQuery_5600209791567371876(final IOperationContext operationContext, final SourceSubstituteMacroNodeContext _context) {
-    return SLinkOperations.getTarget(_context.getNode(), "numberOfIterations", true);
+    return SLinkOperations.getTarget(_context.getNode(), "upperBoundary", true);
+  }
+
+  public static SNode sourceNodeQuery_5600209791568904032(final IOperationContext operationContext, final SourceSubstituteMacroNodeContext _context) {
+    return SLinkOperations.getTarget(_context.getNode(), "lowerBoundary", true);
   }
 
   public static Iterable sourceNodesQuery_5600209791566877209(final IOperationContext operationContext, final SourceSubstituteMacroNodesContext _context) {

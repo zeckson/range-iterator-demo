@@ -30,13 +30,15 @@ public class RangeIterator_Editor extends DefaultNodeEditor {
     editorCell.addEditorCell(this.createConstant_amkjio_d0(editorContext, node));
     editorCell.addEditorCell(this.createRefNode_amkjio_e0(editorContext, node));
     editorCell.addEditorCell(this.createConstant_amkjio_f0(editorContext, node));
+    editorCell.addEditorCell(this.createRefNode_amkjio_g0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_amkjio_h0(editorContext, node));
     return editorCell;
   }
 
   private EditorCell createRefNode_amkjio_a0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
-    provider.setRole("numberOfIterations");
-    provider.setNoTargetText("<no numberOfIterations>");
+    provider.setRole("lowerBoundary");
+    provider.setNoTargetText("<no lowerBoundary>");
     EditorCell editorCell;
     editorCell = provider.createEditorCell(editorContext);
     editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
@@ -51,8 +53,32 @@ public class RangeIterator_Editor extends DefaultNodeEditor {
   }
 
   private EditorCell createConstant_amkjio_b0(EditorContext editorContext, SNode node) {
-    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "times {");
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "..");
     editorCell.setCellId("Constant_amkjio_b0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+
+  private EditorCell createRefNode_amkjio_c0(EditorContext editorContext, SNode node) {
+    CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
+    provider.setRole("upperBoundary");
+    provider.setNoTargetText("<no upperBoundary>");
+    EditorCell editorCell;
+    editorCell = provider.createEditorCell(editorContext);
+    editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
+    SNode attributeConcept = provider.getRoleAttribute();
+    Class attributeKind = provider.getRoleAttributeClass();
+    if (attributeConcept != null) {
+      IOperationContext opContext = editorContext.getOperationContext();
+      EditorManager manager = EditorManager.getInstanceFromContext(opContext);
+      return manager.createRoleAttributeCell(editorContext, attributeConcept, attributeKind, editorCell);
+    } else
+    return editorCell;
+  }
+
+  private EditorCell createConstant_amkjio_d0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "do {");
+    editorCell.setCellId("Constant_amkjio_d0");
     Style style = new StyleImpl();
     style.set(StyleAttributes.MATCHING_LABEL, "body");
     editorCell.getStyle().putAll(style);
@@ -60,7 +86,7 @@ public class RangeIterator_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createRefNode_amkjio_c0(EditorContext editorContext, SNode node) {
+  private EditorCell createRefNode_amkjio_e0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
     provider.setRole("loopVariable");
     provider.setNoTargetText("<no loopVariable>");
@@ -77,9 +103,9 @@ public class RangeIterator_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createConstant_amkjio_d0(EditorContext editorContext, SNode node) {
+  private EditorCell createConstant_amkjio_f0(EditorContext editorContext, SNode node) {
     EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "->");
-    editorCell.setCellId("Constant_amkjio_d0");
+    editorCell.setCellId("Constant_amkjio_f0");
     Style style = new StyleImpl();
     style.set(StyleAttributes.INDENT_LAYOUT_NEW_LINE, true);
     editorCell.getStyle().putAll(style);
@@ -87,7 +113,7 @@ public class RangeIterator_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createRefNode_amkjio_e0(EditorContext editorContext, SNode node) {
+  private EditorCell createRefNode_amkjio_g0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
     provider.setRole("body");
     provider.setNoTargetText("<no body>");
@@ -108,9 +134,9 @@ public class RangeIterator_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createConstant_amkjio_f0(EditorContext editorContext, SNode node) {
+  private EditorCell createConstant_amkjio_h0(EditorContext editorContext, SNode node) {
     EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "}");
-    editorCell.setCellId("Constant_amkjio_f0");
+    editorCell.setCellId("Constant_amkjio_h0");
     Style style = new StyleImpl();
     style.set(StyleAttributes.MATCHING_LABEL, "body");
     editorCell.getStyle().putAll(style);

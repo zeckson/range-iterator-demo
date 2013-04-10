@@ -20,6 +20,5 @@ public class RangeIterator_Behavior {
       }
     }
     return ScopeUtils.lazyParentScope(thisNode, kind);
-
   }
 }
