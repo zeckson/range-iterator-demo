@@ -8,8 +8,8 @@ public class Demo {
     int start = 0;
     int end = 10;
 
-    for (int i = start; i < end + 1; i++) {
-      System.out.println("Hi! " + i);
+    for (int index = start; index < end + 1; index++) {
+      System.out.println("Hi! " + index);
     }
   }
 }

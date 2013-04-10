@@ -67,7 +67,7 @@
                   <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="fxg7.~PrintStream%dprintln(java%dlang%dString)%cvoid" resolveInfo="println" />
                   <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.PlusExpression" typeId="tpee.1068581242875" id="5600209791567939459">
                     <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.VariableReference" typeId="tpee.1068498886296" id="5600209791567945632">
-                      <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5600209791567854990" resolveInfo="i" />
+                      <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5600209791567854990" resolveInfo="index" />
                     </node>
                     <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="5600209791566620528">
                       <property name="value" nameId="tpee.1070475926801" value="Hi! " />
@@ -78,7 +78,7 @@
             </node>
           </node>
           <node role="loopVariable" roleId="n7sw.5600209791567750454" type="n7sw.RangeIteratorVariable" typeId="n7sw.5600209791567510453" id="5600209791567854990">
-            <property name="name" nameId="tpck.1169194664001" value="i" />
+            <property name="name" nameId="tpck.1169194664001" value="index" />
             <node role="type" roleId="tpee.5680397130376446158" type="tpee.IntegerType" typeId="tpee.1070534370425" id="5600209791567854991" />
           </node>
         </node>

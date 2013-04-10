@@ -7,12 +7,6 @@ import org.jetbrains.annotations.Nullable;
 import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.smodel.runtime.CheckingNodeContext;
-import java.util.Map;
-import jetbrains.mps.smodel.runtime.PropertyConstraintsDescriptor;
-import java.util.HashMap;
-import jetbrains.mps.smodel.runtime.base.BasePropertyConstraintsDescriptor;
-import jetbrains.mps.smodel.IScope;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
 import jetbrains.mps.smodel.SNodePointer;
 
@@ -35,24 +29,6 @@ public class RangeIteratorVariable_Constraints extends BaseConstraintsDescriptor
     }
 
     return result;
-  }
-
-  @Override
-  protected Map<String, PropertyConstraintsDescriptor> getNotDefaultProperties() {
-    Map<String, PropertyConstraintsDescriptor> properties = new HashMap();
-    properties.put("name", new BasePropertyConstraintsDescriptor("name", this) {
-      @Override
-      public boolean hasOwnValidator() {
-        return true;
-      }
-
-      @Override
-      public boolean validateValue(SNode node, String propertyValue, IScope scope) {
-        String propertyName = "name";
-        return (SPropertyOperations.getString(propertyValue)).matches("[a-zA-Z[_]]([a-aA-Z0-9$.[_]])*");
-      }
-    });
-    return properties;
   }
 
   public static boolean static_canBeAChild(SNode node, SNode parentNode, SNode link, SNode childConcept, final IOperationContext operationContext) {

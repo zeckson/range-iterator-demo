@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-5edmgrl35qvu1aypfilu2o7sfdlj7qw">
+<dependencies version="2" modelHash="2wajjq8k5sgtt4uqr4iuwg80bdp0pg9">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -18,7 +18,7 @@
   <source id="5600209791566726014" name="RangeIterator" hash="-92jlazzezdlwtzp1b631qhxg8ovgkr6">
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   </source>
-  <source id="5600209791567510453" name="RangeIteratorVariable" hash="5eganjhqrpv81a3wh6u64qaddjqn75v">
+  <source id="5600209791567510453" name="RangeIteratorVariable" hash="6sezquhnsbhjpu2vt8ev2usxmamm58q">
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   </source>
 </dependencies>

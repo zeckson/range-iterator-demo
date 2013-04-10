@@ -8,7 +8,7 @@
   <dep model="r:00000000-0000-4000-0000-011c8959037d(jetbrains.mps.lang.dataFlow.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c8959037e(jetbrains.mps.lang.dataFlow.generator.baseLanguage.template.main@generator)" />
   <dep model="r:c3548bac-30eb-4a2a-937c-0111d5697309(jetbrains.mps.lang.smodel.generator.smodelAdapter)" />
-  <dep model="r:d3cb28f7-b3e6-4138-80f8-ad737bd932fc(RangeIteratorDemo.structure)" hash="-5edmgrl35qvu1aypfilu2o7sfdlj7qw" />
+  <dep model="r:d3cb28f7-b3e6-4138-80f8-ad737bd932fc(RangeIteratorDemo.structure)" hash="2wajjq8k5sgtt4uqr4iuwg80bdp0pg9" />
   <common hash="81b7nbfxwnayq1q6ry1e60ymh6pwf9r" dependsOnNodes="true">
     <dep root="5600209791569061779" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />

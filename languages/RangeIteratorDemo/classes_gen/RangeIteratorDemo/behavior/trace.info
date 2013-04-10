@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="26" endPosition="0" unitName="RangeIteratorDemo.behavior.BehaviorAspectDescriptor" />
-  <unitInfo fileName="RangeIteratorVariable_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RangeIteratorDemo.behavior.RangeIteratorVariable_BehaviorDescriptor" />
+  <unitInfo fileName="RangeIteratorVariable_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="17" endPosition="0" unitName="RangeIteratorDemo.behavior.RangeIteratorVariable_BehaviorDescriptor" />
   <unitInfo fileName="RangeIterator_BehaviorDescriptor.java" startLine="11" startPosition="0" endLine="28" endPosition="0" unitName="RangeIteratorDemo.behavior.RangeIterator_BehaviorDescriptor" />
   <root nodeRef="r:c288f6a8-e9b6-40ee-87e3-80f3fd7d5937(RangeIteratorDemo.behavior)/5600209791567510653">
     <nodeInfo nodeId="5600209791567510871" fileName="RangeIteratorVariable_Behavior.java" startLine="13" startPosition="43" endLine="14" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />

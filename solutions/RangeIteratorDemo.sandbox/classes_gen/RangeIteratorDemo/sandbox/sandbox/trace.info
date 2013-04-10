@@ -5,12 +5,12 @@
     <nodeInfo nodeId="5600209791567449120" fileName="Demo.java" startLine="7" startPosition="42" endLine="8" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
     <nodeInfo nodeId="2153840996729898336" fileName="Demo.java" startLine="8" startPosition="18" endLine="9" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
     <nodeInfo nodeId="2153840996729891734" fileName="Demo.java" startLine="9" startPosition="17" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
-    <nodeInfo nodeId="5600209791566620529" fileName="Demo.java" startLine="11" startPosition="43" endLine="12" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791566620529" fileName="Demo.java" startLine="11" startPosition="55" endLine="12" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="5600209791567410661" fileName="Demo.java" startLine="10" startPosition="0" endLine="13" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForStatement" />
     <nodeInfo nodeId="5600209791566620426" fileName="Demo.java" startLine="7" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
-    <scopeInfo nodeId="5600209791567410661" fileName="Demo.java" startLine="11" startPosition="43" endLine="12" endPosition="37" />
+    <scopeInfo nodeId="5600209791567410661" fileName="Demo.java" startLine="11" startPosition="55" endLine="12" endPosition="41" />
     <scopeInfo nodeId="5600209791567410661" fileName="Demo.java" startLine="10" startPosition="0" endLine="13" endPosition="5">
-      <varInfo nodeId="5600209791567410661" varName="i" />
+      <varInfo nodeId="5600209791567410661" varName="index" />
     </scopeInfo>
     <scopeInfo nodeId="5600209791566620432" fileName="Demo.java" startLine="7" startPosition="42" endLine="13" endPosition="5">
       <varInfo nodeId="2153840996729898339" varName="end" />
