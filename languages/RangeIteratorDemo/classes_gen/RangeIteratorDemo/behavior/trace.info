@@ -1,8 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="24" endPosition="0" unitName="RangeIteratorDemo.behavior.BehaviorAspectDescriptor" />
-  <unitInfo fileName="RangeIterator_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RangeIteratorDemo.behavior.RangeIterator_BehaviorDescriptor" />
-  <root nodeRef="r:c288f6a8-e9b6-40ee-87e3-80f3fd7d5937(RangeIteratorDemo.behavior)/5600209791567510653" />
-  <root nodeRef="r:c288f6a8-e9b6-40ee-87e3-80f3fd7d5937(RangeIteratorDemo.behavior)/5600209791567540653" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="26" endPosition="0" unitName="RangeIteratorDemo.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="RangeIteratorVariable_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RangeIteratorDemo.behavior.RangeIteratorVariable_BehaviorDescriptor" />
+  <unitInfo fileName="RangeIterator_BehaviorDescriptor.java" startLine="11" startPosition="0" endLine="28" endPosition="0" unitName="RangeIteratorDemo.behavior.RangeIterator_BehaviorDescriptor" />
+  <root nodeRef="r:c288f6a8-e9b6-40ee-87e3-80f3fd7d5937(RangeIteratorDemo.behavior)/5600209791567510653">
+    <nodeInfo nodeId="5600209791567510871" fileName="RangeIteratorVariable_Behavior.java" startLine="13" startPosition="43" endLine="14" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791567864179" fileName="RangeIteratorVariable_Behavior.java" startLine="14" startPosition="92" endLine="15" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="18" startPosition="61" endLine="19" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="19" startPosition="63" endLine="20" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="20" startPosition="30" endLine="21" endPosition="162" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="20" startPosition="30" endLine="21" endPosition="162" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="20" startPosition="30" endLine="21" endPosition="162" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="21" startPosition="162" endLine="22" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5600209791567510653" fileName="RangeIteratorVariable_Behavior.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="18" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="_quotation_createNode_r1fwz9_a0a0a#()Lorg/jetbrains/mps/openapi/model/SNode;" />
+    <scopeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="20" startPosition="30" endLine="21" endPosition="162" />
+    <scopeInfo nodeId="5600209791567510818" fileName="RangeIteratorVariable_Behavior.java" startLine="13" startPosition="43" endLine="15" endPosition="55" />
+    <scopeInfo nodeId="5600209791567510653" fileName="RangeIteratorVariable_Behavior.java" startLine="13" startPosition="0" endLine="17" endPosition="0">
+      <varInfo nodeId="5600209791567510653" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="18" startPosition="61" endLine="22" endPosition="24">
+      <varInfo nodeId="5600209791567540228" varName="facade" />
+      <varInfo nodeId="5600209791567540228" varName="quotedNode_1" />
+    </scopeInfo>
+    <scopeInfo nodeId="5600209791567540228" fileName="RangeIteratorVariable_Behavior.java" startLine="18" startPosition="0" endLine="24" endPosition="0" />
+    <unitInfo nodeId="5600209791567510653" fileName="RangeIteratorVariable_Behavior.java" startLine="12" startPosition="0" endLine="25" endPosition="0" unitName="RangeIteratorDemo.behavior.RangeIteratorVariable_Behavior" />
+  </root>
+  <root nodeRef="r:c288f6a8-e9b6-40ee-87e3-80f3fd7d5937(RangeIteratorDemo.behavior)/5600209791567540653">
+    <nodeInfo nodeId="6257218603554017674" fileName="RangeIterator_Behavior.java" startLine="18" startPosition="57" endLine="19" endPosition="144" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4177170313493694868" fileName="RangeIterator_Behavior.java" startLine="21" startPosition="5" endLine="22" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4177170313493681009" fileName="RangeIterator_Behavior.java" startLine="22" startPosition="54" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5600209791567540653" fileName="RangeIterator_Behavior.java" startLine="13" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="575411038347731643" fileName="RangeIterator_Behavior.java" startLine="17" startPosition="105" endLine="20" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="575411038347461376" fileName="RangeIterator_Behavior.java" startLine="16" startPosition="101" endLine="21" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5600209791567540653" fileName="RangeIterator_Behavior.java" startLine="16" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getScope_3734116213129936182#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/scope/Scope;" />
+    <scopeInfo nodeId="5600209791567540655" fileName="RangeIterator_Behavior.java" startLine="13" startPosition="43" endLine="13" endPosition="43" />
+    <scopeInfo nodeId="575411038347731645" fileName="RangeIterator_Behavior.java" startLine="18" startPosition="57" endLine="19" endPosition="144" />
+    <scopeInfo nodeId="5600209791567540653" fileName="RangeIterator_Behavior.java" startLine="13" startPosition="0" endLine="15" endPosition="0">
+      <varInfo nodeId="5600209791567540653" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="575411038347461378" fileName="RangeIterator_Behavior.java" startLine="17" startPosition="105" endLine="20" endPosition="7" />
+    <scopeInfo nodeId="5600209791567540666" fileName="RangeIterator_Behavior.java" startLine="16" startPosition="101" endLine="23" endPosition="0" />
+    <scopeInfo nodeId="5600209791567540653" fileName="RangeIterator_Behavior.java" startLine="16" startPosition="0" endLine="25" endPosition="0">
+      <varInfo nodeId="5600209791567540664" varName="child" />
+      <varInfo nodeId="5600209791567540662" varName="kind" />
+      <varInfo nodeId="5600209791567540653" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="5600209791567540653" fileName="RangeIterator_Behavior.java" startLine="12" startPosition="0" endLine="26" endPosition="0" unitName="RangeIteratorDemo.behavior.RangeIterator_Behavior" />
+  </root>
 </debugInfo>
 

@@ -5,9 +5,13 @@
   <devkit namespace="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
   <import index="n7sw" modelUID="r:d3cb28f7-b3e6-4138-80f8-ad737bd932fc(RangeIteratorDemo.structure)" version="-1" implicit="yes" />
   <import index="tpc2" modelUID="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" version="32" implicit="yes" />
+  <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <roots>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5600209791566752412">
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="n7sw.5600209791566726014" resolveInfo="RangeIterator" />
+    </node>
+    <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5600209791567510459">
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="n7sw.5600209791567510453" resolveInfo="RangeIteratorVariable" />
     </node>
   </roots>
   <root id="5600209791566752412">
@@ -17,11 +21,17 @@
       </node>
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="5600209791566754078">
         <property name="text" nameId="tpc2.1073389577007" value="times {" />
-        <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.IndentLayoutNewLineStyleClassItem" typeId="tpc2.1237308012275" id="5600209791571330076">
-          <property name="flag" nameId="tpc2.1186414551515" value="true" />
-        </node>
         <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.MatchingLabelStyleClassItem" typeId="tpc2.1236262245656" id="5600209791566754514">
           <property name="labelName" nameId="tpc2.1238091709220" value="body" />
+        </node>
+      </node>
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="5600209791567832713">
+        <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="n7sw.5600209791567750454" />
+      </node>
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="5600209791567832753">
+        <property name="text" nameId="tpc2.1073389577007" value="-&gt;" />
+        <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.IndentLayoutNewLineStyleClassItem" typeId="tpc2.1237308012275" id="5600209791567832869">
+          <property name="flag" nameId="tpc2.1186414551515" value="true" />
         </node>
       </node>
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="5600209791566754186">
@@ -40,6 +50,11 @@
         </node>
       </node>
       <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="5600209791566753971" />
+    </node>
+  </root>
+  <root id="5600209791567510459">
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="5600209791567510461">
+      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="tpck.1169194664001" resolveInfo="name" />
     </node>
   </root>
 </model>

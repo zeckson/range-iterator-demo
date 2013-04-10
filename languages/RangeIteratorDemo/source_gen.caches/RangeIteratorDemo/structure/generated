@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="1urzkgsro7mrs4zyhtzb9g46c8bcma8">
+<dependencies version="2" modelHash="-54eoaufc3mw2f2nozl11cz2kevwg0j3">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="73e5u99hvgnpxq692x30ob8mpajk99n">
+  <common hash="6aqitnpl0ybsuv063r6dqjjhllkfl2m">
     <dep root="5600209791566726014" />
+    <dep root="5600209791567510453" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -14,7 +15,10 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="StructureAspectDescriptor.java" />
   </common>
-  <source id="5600209791566726014" name="RangeIterator" hash="-2o508hku2m4zeinpgfqkp4pnz6i12ob">
+  <source id="5600209791566726014" name="RangeIterator" hash="5ojmphi06myg63n4ds5cx7fzg7j6uag">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="5600209791567510453" name="RangeIteratorVariable" hash="5eganjhqrpv81a3wh6u64qaddjqn75v">
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   </source>
 </dependencies>

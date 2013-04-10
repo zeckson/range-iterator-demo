@@ -6,9 +6,8 @@ package RangeIteratorDemo.sandbox.sandbox;
 public class Demo {
   public static void main(String[] args) {
     int number = 10;
-
-    for (int index_c0a = 0; index_c0a < number + 10; index_c0a++) {
-      System.out.println("Hi!");
+    for (int index = 0; index < number + 10; index++) {
+      System.out.println("Hi! " + index);
     }
   }
 }

@@ -34,17 +34,16 @@
             </node>
           </node>
         </node>
-        <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="2153840996728962076" />
-        <node role="statement" roleId="tpee.1068581517665" type="n7sw.RangeIterator" typeId="n7sw.5600209791566726014" id="5600209791571366397">
-          <node role="numberOfIterations" roleId="n7sw.5600209791567318400" type="tpee.PlusExpression" typeId="tpee.1068581242875" id="5600209791571372382">
-            <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="5600209791571372391">
+        <node role="statement" roleId="tpee.1068581517665" type="n7sw.RangeIterator" typeId="n7sw.5600209791566726014" id="5600209791567410661">
+          <node role="numberOfIterations" roleId="n7sw.5600209791567318400" type="tpee.PlusExpression" typeId="tpee.1068581242875" id="5600209791567507975">
+            <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="5600209791567507984">
               <property name="value" nameId="tpee.1068580320021" value="10" />
             </node>
-            <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.VariableReference" typeId="tpee.1068498886296" id="5600209791571368346">
+            <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.VariableReference" typeId="tpee.1068498886296" id="5600209791567505209">
               <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5600209791567449121" resolveInfo="number" />
             </node>
           </node>
-          <node role="body" roleId="n7sw.5600209791566752402" type="tpee.StatementList" typeId="tpee.1068580123136" id="5600209791571366401">
+          <node role="body" roleId="n7sw.5600209791566752402" type="tpee.StatementList" typeId="tpee.1068580123136" id="5600209791567410665">
             <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="5600209791566620529">
               <node role="expression" roleId="tpee.1068580123156" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5600209791566620525">
                 <node role="operand" roleId="tpee.1197027771414" type="tpee.StaticFieldReference" typeId="tpee.1070533707846" id="5600209791566620526">
@@ -53,12 +52,21 @@
                 </node>
                 <node role="operation" roleId="tpee.1197027833540" type="tpee.InstanceMethodCallOperation" typeId="tpee.1202948039474" id="5600209791566620527">
                   <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="fxg7.~PrintStream%dprintln(java%dlang%dString)%cvoid" resolveInfo="println" />
-                  <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="5600209791571350045">
-                    <property name="value" nameId="tpee.1070475926801" value="Hi!" />
+                  <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.PlusExpression" typeId="tpee.1068581242875" id="5600209791567939459">
+                    <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.VariableReference" typeId="tpee.1068498886296" id="5600209791567945632">
+                      <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5600209791567854990" resolveInfo="index" />
+                    </node>
+                    <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="5600209791566620528">
+                      <property name="value" nameId="tpee.1070475926801" value="Hi! " />
+                    </node>
                   </node>
                 </node>
               </node>
             </node>
+          </node>
+          <node role="loopVariable" roleId="n7sw.5600209791567750454" type="n7sw.RangeIteratorVariable" typeId="n7sw.5600209791567510453" id="5600209791567854990">
+            <property name="name" nameId="tpck.1169194664001" value="index" />
+            <node role="type" roleId="tpee.5680397130376446158" type="tpee.IntegerType" typeId="tpee.1070534370425" id="5600209791567854991" />
           </node>
         </node>
       </node>

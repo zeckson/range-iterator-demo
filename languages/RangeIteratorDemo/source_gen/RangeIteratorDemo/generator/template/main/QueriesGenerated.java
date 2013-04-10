@@ -4,14 +4,15 @@ package RangeIteratorDemo.generator.template.main;
 
 import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.generator.template.PropertyMacroContext;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.generator.template.SourceSubstituteMacroNodeContext;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.generator.template.SourceSubstituteMacroNodesContext;
 
 public class QueriesGenerated {
   public static Object propertyMacro_GetPropertyValue_5600209791568418096(final IOperationContext operationContext, final PropertyMacroContext _context) {
-    return _context.createUniqueName("index", null);
+    return SPropertyOperations.getString(SLinkOperations.getTarget(_context.getNode(), "loopVariable", true), "name");
   }
 
   public static SNode sourceNodeQuery_5600209791567371876(final IOperationContext operationContext, final SourceSubstituteMacroNodeContext _context) {
