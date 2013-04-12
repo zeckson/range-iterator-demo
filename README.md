@@ -1,6 +1,6 @@
 # Range Iterator Extenstion for java
 
-This is simple DEMO language written originally by Vaclav Pach
+This is simple DEMO language written originally by Vaclav Pech
 ## Getting started
 
 You need MPS version 3 or higher to open this demo
